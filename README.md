@@ -23,7 +23,7 @@
 
 [<img src="https://avatars0.githubusercontent.com/u/25912819?s=460&v=4" width="100px;"/><br /><sub><b>Ángel Aguilar</b></sub>](http://angelaguilar.me)<br/>   
 [<img src="https://avatars2.githubusercontent.com/u/45376986?s=460&v=4" width="100px;"/><br /><sub><b>Sergio García</b></sub>](https://github.com/Checolin00p2)<br/>   
-[<img src="https://avatars2.githubusercontent.com/u/50842865?s=460&v=4" width="100px;"/><br /><sub><b>Daniel Montes</b></sub>](https://github.com/KevinJGMartinez)<br/>
+[<img src="https://avatars2.githubusercontent.com/u/50842865?s=460&v=4" width="100px;"/><br /><sub><b>Kevin Gonzalez</b></sub>](https://github.com/KevinJGMartinez)<br/>
 Karen Aguilar
 
 ## License
