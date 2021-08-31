@@ -1,7 +1,6 @@
 
 <h1 align="center">
   <br>
-  <img src="https://www.dl.dropboxusercontent.com//s/tjvqyfmsc4f1r37/Logo_SWS_KarenVersion.png?dl=0" alt="Smart Weather System" width="200">
   <br>
     Smart Weather System
   <br>
@@ -29,9 +28,5 @@ Karen Aguilar
 ## License
 
 GNU General Public License v3.0
-
-<p align="center">
-    <img src="https://www.dl.dropboxusercontent.com/s/v3yzqgly07qke1m/Logo_AA_C2_WB.png?dl=0" width="100px">
-</p>
 
  
